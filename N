@@ -1,0 +1,8 @@
+Evaluate potential customers’ creditworthiness
+Maintain detailed records of company loans
+Approve or reject loan requests from customers
+Calculate and set loan interest rates
+Negotiate loan terms with new customers
+Monitor customers’ loan payments
+Review and update the company’s credit policy when necessary
+Create a credit scoring model to assess risks
